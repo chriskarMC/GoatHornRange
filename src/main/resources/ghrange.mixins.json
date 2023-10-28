@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.chriskar.ghrange.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "GoatHornItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
